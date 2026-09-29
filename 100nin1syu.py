@@ -7,7 +7,7 @@
 import json
 import requests
 import tkinter as tk
-from tkinter import messagebox
+
 
 # 連携先URL
 url1 = "https://api.aoikujira.com/hyakunin/get2.php?fmt=json"
